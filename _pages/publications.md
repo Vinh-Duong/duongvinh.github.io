@@ -20,18 +20,18 @@ author_profile: true
 
 <table style="border: 1px solid transparent">
   <tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/MCPNS_fastME.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding</b><br>
 				<b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-				Submitted to IEEE Transactions on Multimedia (<b>TCI</b>), 2023.<br>
+				Submitted to IEEE Transactions on Multimedia (<b>TMM</b>), 2023.<br>
 				[<a href="https://arxiv.org/abs/2310.08006">paper</a>]
 			  </p>
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22a.png" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/HLFSR.png" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>Light Field Image Super-Resolution Network via Joint Spatial-Angular and Epipolar Information</b><br>
@@ -42,7 +42,7 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr22b.png" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/TIP" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding</b><br>
@@ -53,7 +53,7 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/cvpr20.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2023" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>End-to-End Learned Light Field Image Rescaling Using Joint Spatial-Angular and Epipolar Information</b> <br>
@@ -64,7 +64,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/eccv18.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2022" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Lfdenet: Light field depth estimation network based on hybrid data representation</b> <br>
@@ -75,7 +75,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_total_station_crop.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2021" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A fast and efficient super-resolution network using hierarchical dense residual learning</b> <br>
@@ -86,7 +86,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/theodolite_err_crop.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2022" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Downsampling Based Light Field Video Coding with Restoration Network Using Joint Spatio-Angular and Epipolar Information</b> <br>
@@ -97,7 +97,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://fuy34.github.io/images/no_theodolite_crop2.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2023-2" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
