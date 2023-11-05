@@ -20,7 +20,7 @@ redirect_from:
 
 # 🔥 News
 - *2023.09*: &nbsp; One paper is accepted by IEEE VCIP 2023.
-- *2021.09*: &nbsp; I became a Postdoc Researcher at  Sungkyunkwan University.
+- *2023.09*: &nbsp; I became a Postdoc Researcher at  Sungkyunkwan University.
 - *2023.06*: &nbsp; One paper is accepted by IEEE ICIP 2023.
 - *2023.03*: &nbsp; My LFSR method achieved 2nd ranking on CVPR 2023 light field super-resolution challenges.
 - *2023.03*: &nbsp; One paper is accepted by IEEE BMSB 2023.
@@ -42,8 +42,3 @@ redirect_from:
 - *2012.09 - 2017.06*, B.Eng. in Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST), Vietnam.
 <!-- # 💬 Invited Talks -->
 
-# 💻 Internships
-- *2023.05 - present*, Research intern at Baidu, Inc., Beijing, China 
-  -  Duties included: Video and Image understand 
-- *2021.06 - 2021.09*, Research intern at SenseTime, Beijing, China 
-  -  Duties included: Image restoration and skin color detection 
