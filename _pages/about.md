@@ -27,36 +27,19 @@ redirect_from:
 - *2023.02*: &nbsp; One paper is accepted by IEEE TCI 2023.
 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2023</div><img src='images/MIEP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection](images/MIEP.pdf) -->
-MIEP: Channel Pruning with Multi-granular Importance Estimation for Object Detection
-
-**Liangwei Jiang**, Jiaxin Chen, Di Huang, Yunhong Yang
-- MIEP achieves a better balance between accuracy and efficiency compared to lightweight object detectors, and generalizes well to various detection frameworks (e.g., Faster-RCNN and FSAF) and tasks (e.g., classification).
-<!-- - Under 75% FLOPs reduction, MIEP achieves a 37.0% mAP on GFL with COCO. Specifically, MIEP compresses a 90%-FLOPs reduction in RetinaNet and Faster-RCNN, even retains 74.1% and 76.1% mAP on VOC, respectively. -->
-</div>
-</div>
-<!-- - [MSN: Multi-directional Similarity Network for Hand-crafted and Deep-synthesized Copy-Move Forgery Detection](images/MSN.pdf), **Liangwei Jiang**, Jinluo Xie, Yecheng Huang, Hua Zhang, Hongyu Yang, Di Huang -->
-- MSN: Multi-directional Similarity Network for Hand-crafted and Deep-synthesized Copy-Move Forgery Detection, **Liangwei Jiang**, Jinluo Xie, Yecheng Huang, Hua Zhang, Hongyu Yang, Di Huang
-
 
 # 🎖 Honors and Awards
-- *2020.08* National College Student Service Outsourcing innovation and Entrepreneurship Competition, **Second Award** (Final, Captain). 
-- *2019.06* ICPC China and Silk-Road Contest, **Silver Medal** (Invitational).
-- *2019.06* SiChuan University Outstanding Student.
+- *2023.05* SKKU Graduate School Innovation Specialization Scholarship. 
+- *2023.04* 2nd ranking on CVPR 2023 light field super-resolution challenges.
+- *2020.02* Travel funds for exchange study in Osaka University, Japan.
 - *2019.03* SiChuan Province LanQiao Cup Professional Talent Competition, **Second Award**.
-- *2018-2020* National Inspirational Scholarship.
-- *2018.11* National College Student Mathematics Competition, **Second Award**.
-- *2018.06* SiChuan University Advanced Individual of Student Association.
+- *2020.01* Best paper ward in IWAIT 2020.
+- *2017.05* First prize on student scientific research contest in HUST.
 
 
 # 📖 Educations
-- *2021.09 - present*, Master, Beihang University, Computer Science.
-- *2017.09 - 2021.06*, Undergraduate, Sichuan University, Computer Science.
+- *2021.09 - present*, Ph.D in Electrical and Electronic Engineering, Sunkyunkwan University, Korea.
+- *2012.09 - 2017.06*, B.Eng. in Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST), Vietnam.
 <!-- # 💬 Invited Talks -->
 
 # 💻 Internships
