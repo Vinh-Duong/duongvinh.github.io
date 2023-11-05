@@ -7,10 +7,10 @@ main:
   # url: /files/CV_DUONGVANVINH_20230803.pdf   
 
   - title: "Publications"
-    url: /publications/    
+    url: /publications_example/    
     
   - title: "Experience"
-    url: /sitemap/
+    url: /experience/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
