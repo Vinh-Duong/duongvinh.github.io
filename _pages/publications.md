@@ -42,7 +42,7 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/TIP" width="150"></td>
+			<td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/TIP.PNG" width="150"></td>
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding</b><br>
@@ -53,7 +53,7 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2023" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2023.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>End-to-End Learned Light Field Image Rescaling Using Joint Spatial-Angular and Epipolar Information</b> <br>
@@ -64,7 +64,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2022" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2022.PNG" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Lfdenet: Light field depth estimation network based on hybrid data representation</b> <br>
@@ -75,7 +75,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2021" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2021.PNG" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>A fast and efficient super-resolution network using hierarchical dense residual learning</b> <br>
@@ -86,7 +86,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2022" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/ICIP_2022.PNG" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Downsampling Based Light Field Video Coding with Restoration Network Using Joint Spatio-Angular and Epipolar Information</b> <br>
@@ -97,7 +97,7 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2023-2" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/images/bmsb_2023-2.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 				<b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
