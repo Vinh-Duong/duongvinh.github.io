@@ -7,7 +7,7 @@ main:
   # url: /files/CV_DUONGVANVINH_20230803.pdf   
 
   - title: "Publications"
-    url: /publications_vinh/    
+    url: _pages/publications_vinh.md  
     
   - title: "Experience"
     url: /experience/
