@@ -1,37 +1,36 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: ""
+permalink: /experience/
 author_profile: true
 ---
 
-{% include base_path %}
+## Professional Experience
+**SKKU** <br />
+Digital Media Lab, Sungkyunkwan University &emsp;  Sep. 2017 - present
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+**HUST** <br />
+Wireless Communication Lab, Hanoi University of Science and Technology  &emsp;   Sep 2015 - Aug. 2017
+<!-- * Research on channel estimation method for high-speed railway based on LTE-R system.<br /> -->
 
-<h2>Pages</h2>
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
+---
+## Teaching Assitance
+**DS340 - Multimedia Engineering** <br />
+Teaching Assistant   &ensp;  &emsp;	  &emsp; 	May. 2019 - Aug. 2019<br />
+Sungkyunkwan University <br />
 
-<h2>Posts</h2>
-{% for post in site.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+**Video Signal Processing** <br />
+Teaching Assistant  &ensp;  &emsp;	  &emsp; 	Mar. 2023 - June 2023<br />
+Sungkyunkwan University<br />
 
-{% capture written_label %}'None'{% endcapture %}
+---
+## Academic Services
+### Conference Reviewer
+* IEEE International Conference on Advanced Technologies for Communications (ATC), 2020
+* IEEE International Conference on Communications and Electronics (ICCE), 2020
 
-{% for collection in site.collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture label %}{{ collection.label }}{% endcapture %}
-  {% if label != written_label %}
-  <h2>{{ label }}</h2>
-  {% capture written_label %}{{ label }}{% endcapture %}
-  {% endif %}
-{% endunless %}
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label == "posts" %}
-  {% include archive-single.html %}
-  {% endunless %}
-{% endfor %}
-{% endfor %}
+### Journal Reviewer
+* IEEE Transactions on Circuits and Systems for Video Technology
+* IEEE Transactions on Multimedia
+* IEEE Access
+* Elsevier Display
