@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vinh Van Duong"
-  avatar           : "profile.png"
+  avatar           : "duongvinh.jpg"
   bio              : "Ligh field imaging, video coding, image restoration"
   location         : "Suwon, South Korea"
   employer         : "Sungkyunkwan University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Vinh-Duong" #"academicpages"
+  github           : "Vinh-Duong" #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
