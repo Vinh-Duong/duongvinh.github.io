@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News"
-    url: /publications/
+  - title: "About"
+    url: /pages/
 
   - title: "CV"
     url: /cv/    
