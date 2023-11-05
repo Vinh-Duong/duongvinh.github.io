@@ -28,9 +28,3 @@ redirect_from:
 
 
 
-
-# 📖 Educations
-- *2017.09 - 2023.06*, Ph.D in Electrical and Electronic Engineering, Sunkyunkwan University, Korea.
-- *2012.09 - 2017.06*, B.Eng. in Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST), Vietnam.
-<!-- # 💬 Invited Talks -->
-
