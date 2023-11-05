@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 
-
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea.
 
-🔬 My research interests are in deep learning and machine learning applied to image/video coding and restoration framework!
+🔬 My research interests are in deep learning and machine learning applied to image/video coding and restoration frameworks!
 
 📚 I'm currently working on light field coding and restoration methods.
 
@@ -21,11 +19,13 @@ redirect_from:
 
 
 # 🔥 News
-- *2023.07*: &nbsp; One paper is accepted by ACM Multimedia 2023.
-- *2022.10*: &nbsp; My github stars have exceeded 3000!🎉🎉.
-- *2022.04*: &nbsp; I release a distributed training [template](https://github.com/Janspiry/distributed-pytorch-template) by Pytorch. Welcome to STAR!.
-- *2022.01*: &nbsp; My [github project](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement) is introduced in the Trending Research of [Papers with Code](https://paperswithcode.com/) and [Github](https://github.com/trending)!.
-- *2021.06*: &nbsp; I'm graduate from Sichuan University and become a research internter in SenseTime.
+- *2023.09*: &nbsp; One paper is accepted by IEEE VCIP 2023.
+- *2021.09*: &nbsp; I became a Postdoc Researcher at  Sungkyunkwan University.
+- *2023.06*: &nbsp; One paper is accepted by IEEE ICIP 2023.
+- *2023.03*: &nbsp; My LFSR method achieved 2nd ranking on CVPR 2023 light field super-resolution challenges.
+- *2023.03*: &nbsp; One paper is accepted by IEEE BMSB 2023.
+- *2023.02*: &nbsp; One paper is accepted by IEEE TCI 2023.
+
 
 # 📝 Publications 
 
