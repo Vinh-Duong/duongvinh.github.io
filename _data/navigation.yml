@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "CV"
-    url: https://github.com/Vinh-Duong/duongvinh.github.io/blob/master/files/CV_DUONGVANVINH_20230803.pdf   
+    url: /files/CV_DUONGVANVINH_20230803.pdf   
 
   - title: "Publications"
     url: /publications/    
