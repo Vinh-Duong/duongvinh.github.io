@@ -47,7 +47,7 @@ author_profile: true
 			<td height="112" style="border: 1px solid transparent">
 			  <p style="text-indent: 0em">
 				<b>Ray-Space Motion Compensation for Lenslet Plenoptic Video Coding</b><br>
-				Vinh Van Duong, <b>Thuc Nguyen Huu</b>, Jonghoon Yim, Byeungwoo Jeon <br>
+				 <b>Thuc Nguyen Huu</b>, Vinh Van Duong, Jonghoon Yim, Byeungwoo Jeon <br>
 				IEEE Transactions on Image Processing (<b>TIP</b>), 2023.<br>
 				[<a href="https://ieeexplore.ieee.org/abstract/document/10044591">paper</a>]
 			  </p>
@@ -102,7 +102,7 @@ author_profile: true
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
 					 <b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
-					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <be>
+					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
 					 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2023<be>
 				         [<a href="https://ieeexplore.ieee.org/abstract/document/10211226/">paper</a>]
 				</p>
