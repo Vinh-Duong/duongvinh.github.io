@@ -59,7 +59,7 @@ author_profile: true
 				<p style="text-indent: 0em">
 					<b>End-to-End Learned Light Field Image Rescaling Using Joint Spatial-Angular and Epipolar Information</b> <br>
 					<b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					IEEE International Conference on Image Processing (<b>ICIP</b>), 2023<br>
+					IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.<br>
 					[<a href="https://ieeexplore.ieee.org/abstract/document/10222394/">paper</a>]
 				</p>
 			</td>
@@ -70,7 +70,7 @@ author_profile: true
 				<p style="text-indent: 0em">
 					<b>Lfdenet: Light field depth estimation network based on hybrid data representation</b> <br>
 					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2022<br>
+					IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2022.<br>
 					[<a href="https://ieeexplore.ieee.org/abstract/document/9828626">paper</a>]
 				</p>
 			</td>
@@ -81,7 +81,7 @@ author_profile: true
 				<p style="text-indent: 0em">
 					<b>A fast and efficient super-resolution network using hierarchical dense residual learning</b> <br>
 					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					IEEE International Conference on Image Processing (<b>ICIP</b>), 2021<br>
+					IEEE International Conference on Image Processing (<b>ICIP</b>), 2021.<br>
 					[<a href="https://ieeexplore.ieee.org/abstract/document/9506786/">paper</a>]
 				</p>
 			</td>
@@ -92,7 +92,7 @@ author_profile: true
 				<p style="text-indent: 0em">
 					<b>Downsampling Based Light Field Video Coding with Restoration Network Using Joint Spatio-Angular and Epipolar Information</b> <br>
 					<b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					IEEE International Conference on Image Processing (<b>ICIP</b>), 2022<br>
+					IEEE International Conference on Image Processing (<b>ICIP</b>), 2022.<br>
 					[<a href="https://ieeexplore.ieee.org/abstract/document/9897948/">paper</a>]
 				</p>
 			</td>
@@ -103,7 +103,7 @@ author_profile: true
 				<p style="text-indent: 0em">
 					 <b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
 					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2023<be>
+					 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2023.<br>
 				         [<a href="https://ieeexplore.ieee.org/abstract/document/10211226/">paper</a>]
 				</p>
 			</td>
