@@ -6,40 +6,31 @@ author_profile: true
 ---
 
 ## Professional Experience
-**Meta** <br />
-Applied Research Scientist &emsp;  Jun. 2022 - present
+**SKKU** <br />
+Digital Media Lab, Sungkyunkwan University &emsp;  Sep. 2017 - present
 
-**Amazon** <br />
-Applied Scientist Intern  &emsp;  May. 2021 - Aug. 2021
-<!-- * Worked on projects related to 3D data processing, 3D reconstruction, floor layout estimation, and multi-camera pose estimation.<br /> -->
-
-**Amazon** <br />
-Applied Scientist Intern  &emsp;   May. 2020 - Aug. 2020
-<!-- * Developed multiple depth estimation methods for various inputs. The final model exceeded the targeted accuracy by 21% in terms of RMSE.<br /> -->
-
-**ByteDance (TikTok)** <br />
-Reserch Intern  &nbsp; &emsp;  &emsp; &emsp; &emsp;	May. 2019 - Aug. 2019<br />
-<!-- * Developed a single-view plane recovery model trained with only depth supervision. The final model improved the plane parameter accuracy by 27% compared to the
-baseline approach.<br /> -->
+**HUST** <br />
+Wireless Communication Lab, Hanoi University of Science and Technology  &emsp;   Sep 2015 - Aug. 2017
+<!-- * Research on channel estimation method for high-speed railway based on LTE-R system.<br /> -->
 
 ---
-## Teaching Experience
-
-**DS340 - Applied Data Science** <br />
+## Teaching Assitance
+**Multimedia Engineering** <br />
 Teaching Assistant   &ensp;  &emsp;	  &emsp; 	May. 2019 - Aug. 2019<br />
-The Pennsylvania State University <br />
+Sungkyunkwan University <br />
 
-**Principle of Automatic Control** <br />
-Teaching Assistant  &ensp;  &emsp;	  &emsp; 	Sept. 2015 - Feb. 2016<br />
-Tianjin University<br />
+**Video Signal Processing** <br />
+Teaching Assistant  &ensp;  &emsp;	  &emsp; 	Mar. 2023 - June 2023<br />
+Sungkyunkwan University<br />
 
 ---
 ## Academic Services
-### Program Committee Member: 
-* AAAI'23
-
 ### Conference Reviewer
-* AAAI'23, CVPR'22, ECCV'22, MICCAI'22, 3DV'22, CVPRW'20 
+* IEEE International Conference on Advanced Technologies for Communications (ATC), 2020
+* IEEE International Conference on Communications and Electronics (ICCE), 2020
 
 ### Journal Reviewer
-* TPAMI, TIP, CVIU, T-MM, TAI
+* IEEE Transactions on Circuits and Systems for Video Technology
+* IEEE Transactions on Multimedia
+* IEEE Access
+* Elsevier Display
