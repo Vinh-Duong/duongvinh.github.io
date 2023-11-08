@@ -25,6 +25,7 @@ redirect_from:
 - *2023.03*: &nbsp; My LFSR method achieved 2nd ranking on CVPR 2023 light field super-resolution challenges.
 - *2023.03*: &nbsp; One paper is accepted by IEEE BMSB 2023.
 - *2023.02*: &nbsp; One paper is accepted by IEEE TCI 2023.
+- *2022.12*: &nbsp; One paper is accepted by IEEE TIP 2023.
 
 
 
