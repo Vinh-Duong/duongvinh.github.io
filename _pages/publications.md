@@ -41,6 +41,17 @@ author_profile: true
 		  </td>
 		</tr>
 		<tr style="border: 1px solid transparent">
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/bmsb_2023-2.png" width="150"></td>
+			  <td height="112" style="border: 1px solid transparent">
+				<p style="text-indent: 0em">
+					 <b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
+					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
+					 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2023.<br>
+				         [<a href="https://ieeexplore.ieee.org/abstract/document/10211226/">paper</a>]
+				</p>
+			</td>
+		</tr>
+		<tr style="border: 1px solid transparent">
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/ICIP_2023.png" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
@@ -63,17 +74,6 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/ICIP_2021.PNG" width="150"></td>
-			  <td height="112" style="border: 1px solid transparent">
-				<p style="text-indent: 0em">
-					<b>A fast and efficient super-resolution network using hierarchical dense residual learning</b> <br>
-					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					IEEE International Conference on Image Processing (<b>ICIP</b>), 2021.<br>
-					[<a href="https://ieeexplore.ieee.org/abstract/document/9506786/">paper</a>]
-				</p>
-			</td>
-		</tr>
-		<tr style="border: 1px solid transparent">
 			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/ICIP_2022.PNG" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
@@ -85,16 +85,18 @@ author_profile: true
 			</td>
 		</tr>
 		<tr style="border: 1px solid transparent">
-			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/bmsb_2023-2.png" width="150"></td>
+			  <td style="border: 1px solid transparent" height="112" width='150' align="left"><img border="2" src="https://vinh-duong.github.io/duongvinh.github.io/images/ICIP_2021.PNG" width="150"></td>
 			  <td height="112" style="border: 1px solid transparent">
 				<p style="text-indent: 0em">
-					 <b>Adaptive Search Range of Template Matching for Plenoptic Video Coding under Microlens Constraints</b> <br>
+					<b>A fast and efficient super-resolution network using hierarchical dense residual learning</b> <br>
 					 <b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
-					 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (<b>BMSB</b>), 2023.<br>
-				         [<a href="https://ieeexplore.ieee.org/abstract/document/10211226/">paper</a>]
+					IEEE International Conference on Image Processing (<b>ICIP</b>), 2021.<br>
+					[<a href="https://ieeexplore.ieee.org/abstract/document/9506786/">paper</a>]
 				</p>
 			</td>
 		</tr>
+		
+		
 </table>
 
 
