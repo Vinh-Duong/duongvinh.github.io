@@ -11,7 +11,7 @@ redirect_from:
 
 # About me
 
-👨🏻‍💻  I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/skku/index.do) (SKKU), working with Prof. [Byeungwoo Jeon](https://shb.skku.edu/media/index.jsp). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi Univeristy and Technology University](https://hust.edu.vn/) (HUST) in 2017.
+👨🏻‍💻  I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/eng/) (SKKU), working with Prof. [Byeungwoo Jeon](https://shb.skku.edu/media/index.jsp). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST) in 2017.
 
 # Research 
 🔬 My primary research interests are about deep learning and machine learning applied to image/video coding and restoration frameworks!
@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 🔥 Recent News
-- *2023.09*: &nbsp; One paper is accepted by IEEE VCIP 2023.
+- *2023.09*: &nbsp; Two papers are accepted by IEEE VCIP 2023.
 - *2023.09*: &nbsp; I became a Postdoc Researcher at  Sungkyunkwan University.
 - *2023.06*: &nbsp; One paper is accepted by IEEE ICIP 2023.
 - *2023.03*: &nbsp; My LFSR method achieved 2nd ranking on CVPR 2023 light field super-resolution challenges.
