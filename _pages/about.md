@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About me
+👨🏻‍💻  I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/skku/index.do) (SKKU), working with Prof. [Byeungwoo Jeon](https://shb.skku.edu/media/index.jsp). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi Univeristy and Technology University](https://hust.edu.vn/) (HUST) in 2017.
 
-
-👨🏻‍💻 I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea.
-
-🔬 My research interests are in deep learning and machine learning applied to image/video coding and restoration frameworks!
+# Research 
+🔬 My primary research interests are about deep learning and machine learning applied to image/video coding and restoration frameworks!
 
 📚 I'm currently working on light field coding and restoration methods.
 
