@@ -14,7 +14,7 @@ author_profile: true
 				<b>MCPNS: A Macropixel Collocated Position and Its Neighbors Search for Plenoptic 2.0 Video Coding</b><br>
 				<b>Vinh Van Duong</b>, Thuc Nguyen Huu, Jonghoon Yim, Byeungwoo Jeon <br>
 				Submitted to IEEE Transactions on Multimedia (<b>TMM</b>), 2023.<br>
-				[<a href="https://arxiv.org/abs/2310.08006">paper</a>]
+				[<a href="https://arxiv.org/abs/2310.08006">paper</a>][<a href="https://github.com/duongvinh/MCPNS">code</a>]
 			  </p>
 		  </td>
 		</tr>
