@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "👋🏼 Hello, I'm Vinh!"
-excerpt: "About me"
+title: "About me"
+excerpt: "Vinh Van Duong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-# About me
 
 👨🏻‍💻  I'm a Postdoc Researcher at the Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/eng/) (SKKU), working with Prof. [Byeungwoo Jeon](https://shb.skku.edu/media/index.jsp). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST) in 2017.
 
