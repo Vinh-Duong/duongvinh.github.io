@@ -26,6 +26,7 @@ Sungkyunkwan University<br />
 ---
 ## Academic Services
 ### Conference Reviewer
+* IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
 * IEEE International Conference on Advanced Technologies for Communications (ATC), 2020
 * IEEE International Conference on Communications and Electronics (ICCE), 2020
 
