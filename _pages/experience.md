@@ -16,7 +16,7 @@ Wireless Communication Lab, Hanoi University of Science and Technology  &emsp;  
 ---
 ## Teaching Assitance
 **Multimedia Engineering** <br />
-Teaching Assistant   &ensp;  &emsp;	  &emsp; 	May. 2019 - Aug. 2019<br />
+Teaching Assistant   &ensp;  &emsp;	  &emsp; 	Mar. 2019 - June. 2019<br />
 Sungkyunkwan University <br />
 
 **Video Signal Processing** <br />
@@ -33,5 +33,6 @@ Sungkyunkwan University<br />
 ### Journal Reviewer
 * IEEE Transactions on Circuits and Systems for Video Technology
 * IEEE Transactions on Multimedia
+* IEEE MultiMedia
 * IEEE Access
 * Elsevier Display
