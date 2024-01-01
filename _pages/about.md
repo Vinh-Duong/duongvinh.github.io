@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoc Researcher at [Digital Media Lab](https://media.skku.ac.kr/dml/index.do), Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/eng/) (SKKU), working with Prof. [Byeungwoo Jeon](https://scholar.google.com/citations?user=j_9mzdEAAAAJ&hl=en). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST) in 2017.
+I'm a Postdoc Researcher at [Digital Media Lab](https://media.skku.ac.kr/dml/index.do), Sunkyunkwan University, South Korea. I received my Ph.D. degree at [Sunkyunkwan University](https://www.skku.edu/eng/) (SKKU), under the supervision of Prof. [Byeungwoo Jeon](https://scholar.google.com/citations?user=j_9mzdEAAAAJ&hl=en). Before joining SKKU, I worked with Prof. [Van Duc Nguyen](https://scholar.google.com/citations?user=tLY0LZ8AAAAJ&hl=en) and Prof. [Tien Hoa Nguyen](https://scholar.google.com/citations?user=B7sDxxIAAAAJ&hl=en) and received my Bachelor’s degree in Electrical and Telecommunications from [Hanoi University of Science and Technology](https://hust.edu.vn/en/) (HUST) in 2017.
 
 # Research 
 * My primary research interests are about deep learning and machine learning applied to image/video coding and restoration frameworks!
